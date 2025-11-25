@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<title>Proximus Azubi-Messe 2026</title>
+<style>
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f9f9f9; }
+header { background: #003366; color: white; padding: 20px; text-align: center; }
+nav { background: #005599; padding: 10px; text-align: center; }
+nav a { color: white; margin: 0 15px; text-decoration: none; font-weight: bold; }
+nav a:hover { text-decoration: underline; }
+section { padding: 20px; max-width: 900px; margin: auto; }
+h2 { color: #003366; }
+ul { line-height: 1.6; }
+footer { background: #003366; color: white; text-align: center; padding: 10px; margin-top: 20px; }
+.highlight { background: #e0f0ff; padding: 10px; border-radius: 5px; }
+</style>
+</head>
+<body>
+
+<header>
+<h1>Proximus Azubi-Messe 2026</h1>
+<p>Willkommen am Messestand der Proximus Versicherung AG</p>
+</header>
+
+<nav>
+<a href="#ausbildung">Ausbildungsberuf</a>
+<a href="#dualesystem">Duale Ausbildung</a>
+<a href="#vorteile">Vorteile</a>
+<a href="#fakten">Zahlen & Fakten</a>
+<a href="#challenge">Azubi-Challenge</a>
+<a href="#kontakt">Kontakt</a>
+</nav>
+
+<section id="ausbildung">
+<h2>Ausbildungsberuf</h2>
+<p class="highlight">Kaufmann/Kauffrau für Versicherungen und Finanzanlagen – ein Beruf mit Zukunft, Kundenkontakt und Finanzwissen.</p>
+</section>
+
+<section id="dualesystem">
+<h2>Das duale Ausbildungssystem</h2>
+<ul>
+<li><strong>Akteure:</strong> Betrieb, Berufsschule, IHK</li>
+<li><strong>Rechtliche Grundlagen Betrieb:</strong> Berufsbildungsgesetz (BBiG)</li>
+<li><strong>Rechtliche Grundlagen Schule:</strong> Berufsschulpflicht</li>
+</ul>
+</section>
+
+<section id="vorteile">
+<h2>Vorteile der dualen Ausbildung</h2>
+<ul>
+<li>Praxisnähe – direkt im Betrieb lernen</li>
+<li>Vergütung – schon während der Ausbildung Geld verdienen</li>
+<li>Karrierechancen – gute Übernahme- und Aufstiegsmöglichkeiten</li>
+</ul>
+</section>
+
+<section id="fakten">
+<h2>Zahlen & Fakten</h2>
+<p>In Deutschland gibt es aktuell über <strong>1,2 Millionen Auszubildende</strong>. Die duale Ausbildung ist ein zentraler Bestandteil des Bildungssystems.</p>
+</section>
+
+<section id="challenge">
+<h2>Azubi-Challenge</h2>
+<p>Teste dein Wissen mit unserem Quiz oder versuche dein Glück am Glücksrad!</p>
+<p><em>👉 Am Messestand live ausprobieren!</em></p>
+</section>
+
+<section id="kontakt">
+<h2>Kontakt & Bewerbung</h2>
+<p>Herr Werner – Personalchef</p>
+<p>E-Mail: <a href="mailto:karriere@proximus.de">karriere@proximus.de</a></p>
+<p><a href="https://www.proximus.de/karriere" target="_blank">Jetzt bewerben</a></p>
+</section>
+
+<footer>
+<p>&copy; 2026 Proximus Versicherung AG</p>
+</footer>
+
+</body>
+</html>
